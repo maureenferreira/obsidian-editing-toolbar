@@ -114,7 +114,7 @@ export const DEFAULT_SETTINGS: cMenuToolbarSettings = {
       },
       {
         "id": "editor:toggle-highlight",
-        "name": "==Toggle highlight ==",
+        "name": "Toggle highlight",
         "icon": "highlight-glyph"
       },
       {
@@ -151,7 +151,7 @@ export const DEFAULT_SETTINGS: cMenuToolbarSettings = {
       },
       {
         "id": "editing-toolbar:editor:attach-file",
-        "name": "upload attach file",
+        "name": "Attach file",
         "icon": "lucide-paperclip"
       },
       {
